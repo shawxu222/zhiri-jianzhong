@@ -1,4 +1,4 @@
 interface:
-  display_name: "日本科技政策公众号编译"
+  display_name: "知日鉴中"
   short_description: "将日文科技政策文章编译成面向中国读者的高质量公众号稿"
-  default_prompt: "Use $edit-japan-tech-policy-wechat to turn this Japanese article into a polished Chinese WeChat draft for tech policy readers."
+  default_prompt: "Use $zhiri-jianzhong to turn this Japanese article into a polished Chinese WeChat draft for tech policy readers."
