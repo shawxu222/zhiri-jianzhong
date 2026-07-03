@@ -1,6 +1,8 @@
-# edit-japan-tech-policy-wechat
+# 知日鉴中
 
-面向 Codex 的公众号编译 Skill：把日文科技、科技政策、创新治理、产业技术和软科学类文章，编译成适合中国读者阅读的简体中文公众号稿。
+面向 Codex 的公众号编译 Skill。技术名：`zhiri-jianzhong`。
+
+它把日文科技、科技政策、创新治理、产业技术和软科学类文章，编译成适合中国读者阅读的简体中文公众号稿。
 
 它不是逐句翻译器。它的目标是把日本来源文章重新组织成逻辑清楚、结构 MECE、适合移动端阅读、同时保持智库式严谨度的中文文章。
 
@@ -73,19 +75,19 @@ flowchart TD
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/shawxu222/edit-japan-tech-policy-wechat.git ~/.codex/skills/edit-japan-tech-policy-wechat
+git clone https://github.com/shawxu222/zhiri-jianzhong.git ~/.codex/skills/zhiri-jianzhong
 ```
 
 重启 Codex 或开启新对话后，可以用：
 
 ```text
-Use $edit-japan-tech-policy-wechat to turn this Japanese article into a polished Chinese WeChat draft for tech policy readers.
+Use $zhiri-jianzhong to turn this Japanese article into a polished Chinese WeChat draft for tech policy readers.
 ```
 
 也可以直接用中文说明：
 
 ```text
-请使用 $edit-japan-tech-policy-wechat，把下面这篇日文文章编译成面向中国科技政策读者的公众号文章。
+请使用 $zhiri-jianzhong，把下面这篇日文文章编译成面向中国科技政策读者的公众号文章。
 ```
 
 ## 推荐输入格式
@@ -93,7 +95,7 @@ Use $edit-japan-tech-policy-wechat to turn this Japanese article into a polished
 为了得到更稳定的结果，建议提供：
 
 ```text
-请使用 $edit-japan-tech-policy-wechat 编译下面这篇文章。
+请使用 $zhiri-jianzhong 编译下面这篇文章。
 
 输出形式：公众号正文 / Word 草稿
 来源：
@@ -131,7 +133,7 @@ flowchart LR
 ## 文件结构
 
 ```text
-edit-japan-tech-policy-wechat/
+zhiri-jianzhong/
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
