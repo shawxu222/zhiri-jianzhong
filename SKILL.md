@@ -1,9 +1,9 @@
 ---
-name: edit-japan-tech-policy-wechat
-description: Transform Japanese technology, science policy, innovation, and soft-science articles, especially pasted Japanese news or magazine source articles, into polished Simplified Chinese WeChat public-account drafts and optional Word `.docx` deliverables for China-facing tech policy researchers, policymakers, and think-tank readers. Use when Codex needs to translate, compile, restructure, edit, localize, headline, quality-check, or package Japanese-source content into rigorous, readable Chinese articles with a clear storyline, Pyramid Principle structure, MECE sections, Japanese-perspective context, restrained policy-analysis style, and a configurable WeChat draft Word format.
+name: zhiri-jianzhong
+description: Zhiri Jianzhong (知日鉴中) transforms Japanese technology, science policy, innovation, and soft-science articles, especially pasted Japanese news or magazine source articles, into polished Simplified Chinese WeChat public-account drafts and optional Word `.docx` deliverables for China-facing tech policy researchers, policymakers, and think-tank readers. Use when Codex needs to translate, compile, restructure, edit, localize, headline, quality-check, or package Japanese-source content into rigorous, readable Chinese articles with a clear storyline, Pyramid Principle structure, MECE sections, Japanese-perspective context, restrained policy-analysis style, and a configurable WeChat draft Word format.
 ---
 
-# Edit Japan Tech Policy Wechat
+# 知日鉴中
 
 ## Core Mandate
 
